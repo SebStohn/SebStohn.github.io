@@ -2,7 +2,7 @@
 
 ## Links
 [Home](./index.html) |
-[Code Review](./index.html) |
+[Code Review](./codereview.html) |
 [Software Design & Engineering](./index.html) |
 [Algorithms & Data Structures](./index.html) |
 [Databases](./index.html)
