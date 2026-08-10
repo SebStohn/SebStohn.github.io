@@ -26,14 +26,31 @@ My work really expanded beyond working with a single technology in the course CS
 Most every course I've taken has touched on security in some way, from the very basic principles of input validation all the way to password hashing and vulnerable dependencies. The key course in this area was CS-305 which had me locating injection vulnerabilities and running dependency checks to analyze their outputs. I've also been lucky enough to enjoy some different odds and ends courses. CS-330 gave me the opportunity to work with OpenGL to create 3D models, CS-410 introduced me to assembly language and translation, and IT-460 focused on training algorithms on datasets with R.
 
 # Software Design & Engineering
+
 [Full-Stack Contact Management Web Application](./index.html)
 
-This artifact was built from two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture, including a Contact model, service layer, REST controller, application entry point, and exception handler. The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch API calls. Users can add, find, update, and delete contacts and display a complete list of contacts through the interface.
+This artifact was built from two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture including a Contact model, service layer, REST controller, application entry point, and exception handler. The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch calls. Users can add, find, update, and delete contacts, and display a complete list of contacts through the interface.
 
-Input validation was strengthened to prevent invalid or empty information, while error handling provides users with more meaningful feedback. Additional improvements include JavaScript helper functions, descriptive input placeholders, comprehensive code comments, professional file headers, and a more organized UI that responds appropriately to all actions.
+Input validation was strengthened to prevent invalid or empty information. The updated error handling provides users with more meaningful feedback. Additional improvements include JavaScript helper functions, descriptive input placeholders, comprehensive code comments, professional file headers, and a more organized UI that responds appropriately.
 
-The artifact has evolved from a small collection of Java business-logic classes into a complete CRUD application that demonstrates integration of backend Java development, RESTful APIs, Spring Boot, and frontend web technologies.
+The artifact has evolved from a small collection of Java business-logic into a complete CRUD application that demonstrates integration of backend Java development, RESTful APIs, Spring Boot, and frontend web technologies.
 
 # Algorithms & Data Structures
 
+[Course Catalog Binary Search Tree](./index.html)
+
+This artifact was originally developed in C++ but has been translated to Python. The application parses a CSV file containing academic course information and organizes them in a binary search tree (BST), allowing users to efficiently search and navigate the data.
+
+The Python version uses a dataclass to represent courses and incorporates Pythonic file handling, input validation, and program organization. New functionality was also added including the ability to search courses by subject, browse courses within a subject, and access a statistics feature. This version also has cleaner output and formatting, simplified input validation, comprehensive code comments, and professional file headers.
+
+The artifact now demonstrates file processing, object-oriented programming, binary search trees, recursion, searching algorithms, data analysis, and the ability to translate existing software between while preserving its core components.
+
 # Databases
+
+[National Parks Info & Data Visualization Dashboard](./index.html)
+
+This artifact is built with Python, Dash, and MongoDB. It was originally a rescue-animal database but has been completely repurposed to manage information about U.S. National Parks. The dashboard was converted into a Python application and the UI was redesigned to display National Parks information including a sortable data table, state-based filtering, and an "Update Visited" feature that allows users to track which parks they have visited.
+
+The application includes an improved interactive geolocation map and a pie chart that displays the distribution of National Parks by state. It also features updates such as new colors, layout, website links, styling, comments, and professional file headers. Finally, the MongoDB database was populated with records for all 63 U.S. National Parks.
+
+The artifact combines databasing, CRUD operations, data visualization, web-based user interaction, and demonstrates the ability to work with MongoDB and Dash to transform raw data into a meaningful user experience.
