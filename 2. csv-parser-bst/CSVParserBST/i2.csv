@@ -1,0 +1,71 @@
+MAT101,College Algebra
+MAT150,Precalculus,MAT101
+MAT201,Calculus I,MAT150
+MAT202,Calculus II,MAT201
+MAT250,Linear Algebra,MAT202
+MAT301,Differential Equations,MAT202
+MAT401,Numerical Methods,MAT301,CS201
+MAT402,Advanced Numerical Methods,MAT401,MAT450
+
+PHY101,Physics I,MAT201
+PHY102,Physics II,PHY101,MAT202
+PHY201,University Physics I,PHY102
+PHY202,University Physics II,PHY201
+
+STA201,Statistics,MAT201
+STA301,Probability,STA201
+STA401,Regression Analysis,STA301
+
+ECO101,Principles of Economics
+ECO201,Microeconomics,ECO101
+ECO202,Macroeconomics,ECO101
+ECO301,Econometrics,ECO201,STA201
+
+ACC101,Financial Accounting
+ACC201,Managerial Accounting,ACC101
+ACC301,Intermediate Accounting,ACC201
+ACC401,Auditing,ACC301
+
+FIN201,Corporate Finance,ACC201
+FIN301,Investments,FIN201
+FIN401,Risk Management,FIN301,ECO301
+
+MKT101,Marketing Principles
+MKT301,Consumer Behavior,MKT101
+MKT401,Digital Marketing,MKT301
+
+MGT101,Introduction to Management
+MGT201,Organizational Behavior,MGT101
+MGT301,Operations Management,MGT201
+MGT401,Strategic Management,MGT301
+
+ENG101,English Composition
+ENG201,Technical Writing,ENG101
+ENG301,Advanced Composition,ENG201
+
+HIS101,World History
+HIS201,Modern History,HIS101
+
+PSY101,Introduction to Psychology
+PSY201,Cognitive Psychology,PSY101
+PSY301,Behavioral Neuroscience,PSY201,BIO201
+
+SOC101,Introduction to Sociology
+SOC201,Social Theory,SOC101
+
+ART101,Drawing I
+ART201,Digital Art,ART101
+ART301,3D Modeling,ART201,CS101
+
+MUS101,Music Theory I
+MUS201,Music Theory II,MUS101
+
+NUR101,Fundamentals of Nursing
+NUR201,Medical-Surgical Nursing,NUR101,BIO201
+NUR301,Pediatric Nursing,NUR201
+NUR401,Clinical Practicum,NUR301
+
+BUS101,Business Foundations
+BUS201,Business Law,BUS101
+BUS301,Entrepreneurship,BUS201,MKT101
+BUS401,Business Strategy,BUS301,MGT401
