@@ -23,9 +23,7 @@ An early test of skill was the course CS-210 which had me develop a C++ based "c
 
 My work really expanded beyond working with a single technology in the course CS-340 where I combined a Python CRUD module with MongoDB to create a basic website featuring an interactive dashboard. The process of creating an application with multiple layers was fully fleshed out in CS-465 which had me working with a full stack of development tools converting a basic HTML site into a full RESTful API web service. This gave me excellent experience working with request routing, endpoints, and controllers.
 
-Most every course I've taken has touched on security in some way, from the very basic principles of input validation all the way to password hashing and vulnerable dependencies. The key course in this area was CS-305 which had me locating injection vulnerabilities and running dependency checks to analyze their outputs.
-
-I've also been lucky enough to enjoy some different odds and ends courses. CS-330 gave me the opportunity to work with OpenGL to create 3D models, CS-410 introduced me to assembly language and translation, and IT-460 focused on training algorithms on datasets with R.
+Most every course I've taken has touched on security in some way, from the very basic principles of input validation all the way to password hashing and vulnerable dependencies. The key course in this area was CS-305 which had me locating injection vulnerabilities and running dependency checks to analyze their outputs. I've also been lucky enough to enjoy some different odds and ends courses. CS-330 gave me the opportunity to work with OpenGL to create 3D models, CS-410 introduced me to assembly language and translation, and IT-460 focused on training algorithms on datasets with R.
 
 # Software Design & Engineering
 
