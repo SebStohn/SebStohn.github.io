@@ -26,8 +26,7 @@ My work really expanded beyond working with a single technology in the course CS
 Most every course I've taken has touched on security in some way, from the very basic principles of input validation all the way to password hashing and vulnerable dependencies. The key course in this area was CS-305 which had me locating injection vulnerabilities and running dependency checks to analyze their outputs. I've also been lucky enough to enjoy some different odds and ends courses. CS-330 gave me the opportunity to work with OpenGL to create 3D models, CS-410 introduced me to assembly language and translation, and IT-460 focused on training algorithms on datasets with R.
 
 # Software Design & Engineering
-
-**Full-Stack Contact Management Web Application**
+[Full-Stack Contact Management Web Application](./index.html)
 
 This artifact was built from two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture, including a Contact model, service layer, REST controller, application entry point, and exception handler. The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch API calls. Users can add, find, update, and delete contacts and display a complete list of contacts through the interface.
 
