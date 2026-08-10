@@ -1,11 +1,12 @@
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ## Links
+
 [Home](./index.html) |
 [Code Review](./codereview.html) |
-[Software Design & Engineering](./index.html) |
-[Algorithms & Data Structures](./index.html) |
-[Databases](./index.html)
+[Software Design & Engineering](./softwaredesignengineering.html) |
+[Algorithms & Data Structures](./algorithmsdatastructures.html) |
+[Databases](./databases.html)
 
 # About Me
 
