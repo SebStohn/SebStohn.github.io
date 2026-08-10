@@ -4,34 +4,35 @@
 @import "{{ site.theme }}";
 
 body {
-  color:#CCC4BC; // text
-  background: #1B1717; // bg
+  color: #CCC4BC;
+  background: #1B1717;
 }
 
 h1, h2 {
-  color:#F5F0EB; // heading
+  color: #F5F0EB;
 }
 
 a {
-  color:#CE4242; // link
+  color: #CE4242;
   &:hover {
-    color: #E56B6B; // hovered link
+    color: #E56B6B;
   }
 }
 
 #header {
-  background: #1e3a5f;
+  background: #241D1D;
+  border-bottom: 4px solid #3A2929;
 }
 
 #header nav ul li a {
-  color: white;
-  border: 1px solid #16304f;
-  background: linear-gradient(#3b82c4, #2563a6);
-  background-color: #3b82c4;
-}
+  color: #F5F0EB;
+  border: 1px solid #8F3030;
+  background: linear-gradient(#CE4242, #A83232);
+  background-color: #CE4242;
 
-#header nav ul li a:hover {
-  background: linear-gradient(#2563a6, #1d4f82);
-  background-color: #2563a6;
-  border: 1px solid #1d4f82;
+  &:hover {
+    background: linear-gradient(#E56B6B, #C94B4B);
+    background-color: #E56B6B;
+    border: 1px solid #A83A3A;
+  }
 }
