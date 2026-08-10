@@ -1,4 +1,4 @@
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Placeholder](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ## Links
 
