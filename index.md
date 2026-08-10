@@ -16,7 +16,8 @@ Throughout my studies I have become proficient in several programming languages 
 # Academic Reflection
 
 # Software Design & Engineering
-## Full-Stack Contact Management Web Application
+
+**Full-Stack Contact Management Web Application**
 
 # Algorithms & Data Structures
 
