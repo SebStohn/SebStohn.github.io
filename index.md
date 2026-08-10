@@ -1,5 +1,11 @@
-# Sebastian Stohn
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-## About Me
+# About Me
 
-I am Sebastian Stohn.
+# Academic Reflection
+
+# Software Design & Engineering
+
+# Algorithms & Data Structures
+
+# Databases
