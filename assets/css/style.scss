@@ -4,17 +4,17 @@
 @import "{{ site.theme }}";
 
 body {
-  color:#b29576;
-  background: #2f2a26;
-}
-
-a {
-  color:#a82e23;
-  &:hover {
-    color: #b5523d;
-  }
+  color:#CCC4BC; // text
+  background: #1B1717; // bg
 }
 
 h1, h2 {
-  color:#cab7a1;
+  color:#F5F0EB; // heading
+}
+
+a {
+  color:#CE4242; // link
+  &:hover {
+    color: #E56B6B; // hovered link
+  }
 }
