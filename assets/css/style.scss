@@ -18,3 +18,13 @@ a {
     color: #E56B6B; // hovered link
   }
 }
+
+#header {
+  background: #353535; // header
+  a {
+     background-color: #CE4242; // button
+    &:hover {
+      color: #E56B6B; // hovered button
+    }
+  }
+}
