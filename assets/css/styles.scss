@@ -3,15 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background: #111;
-  color: #ffffff;
-}
-
-a {
-  color: #00ffcc;
-}
-
-h1, h2, h3 {
-  color: #00ffcc;
+header h1 {
+  color: lime !important;
+  font-size: 60px !important;
 }
