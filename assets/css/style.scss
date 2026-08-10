@@ -20,11 +20,18 @@ a {
 }
 
 #header {
-  background: #353535; // header
-  a {
-     background-color: #CE4242; // button
-    &:hover {
-      color: #E56B6B; // hovered button
-    }
-  }
+  background: #1e3a5f;
+}
+
+#header nav ul li a {
+  color: white;
+  border: 1px solid #16304f;
+  background: linear-gradient(#3b82c4, #2563a6);
+  background-color: #3b82c4;
+}
+
+#header nav ul li a:hover {
+  background: linear-gradient(#2563a6, #1d4f82);
+  background-color: #2563a6;
+  border: 1px solid #1d4f82;
 }
