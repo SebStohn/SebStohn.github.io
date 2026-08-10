@@ -1,0 +1,57 @@
+/*!
+* Stylesheet for contact service
+* Author: Sebastian Stohn
+* Date: 2026-08-03
+*/
+
+/* Background */
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #C6DBEF;
+}
+
+/* Title bar */
+nav {
+    display: flex;
+    padding-left: 8px;
+    height: 32px;
+    font-family: sans-serif;
+    font-size: 20px;
+    align-items: center;
+    color: #FFEE8C;
+    background-color: #08306B;
+}
+
+/* Content alignent and normal text */
+.content {
+    display: flex;
+	flex-direction: column;
+    padding-left: 18px;
+    font-family: serif;
+    font-size: 18px;
+    color: #000000;
+}
+
+/* Working contact */
+div {
+	width: fit-content;
+    background-color: #FFEE8C;
+}
+
+/* Contact book */
+span {
+	width: fit-content;
+    background-color: #9AB0CE;
+}
+
+/* Buttons */
+button {
+    font-family: sans-serif;
+    font-size: 18px;
+	color: #FFEE8C;
+	background-color: #08306B;
+}
+button:hover {
+    transform: scale(1.02);
+}
