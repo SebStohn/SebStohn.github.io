@@ -4,5 +4,17 @@
 @import "{{ site.theme }}";
 
 body {
-  background: #000000;
+  color:#b29576;
+  background: #2f2a26;
+}
+
+a {
+  color:#a82e23;
+  &:hover {
+    color: #b5523d;
+  }
+}
+
+h1, h2 {
+  color:#cab7a1;
 }
