@@ -1,2 +1,2 @@
-# SebStohn.github.io
-Code Review - https://www.youtube.com/watch?v=WWt6o8kGqrE
+### SebStohn.github.io
+SNHU CS-499 Repository
