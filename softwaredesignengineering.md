@@ -1,5 +1,3 @@
-![1.1](./assets/images/1.1.png)
-
 ## Links
 
 [Home](./index.html) |
@@ -7,6 +5,8 @@
 [Software Design & Engineering](./softwaredesignengineering.html) |
 [Algorithms & Data Structures](./algorithmsdatastructures.html) |
 [Databases](./databases.html)
+
+![1.1](./assets/images/1.1.png)
 
 # Original Artifact
 
