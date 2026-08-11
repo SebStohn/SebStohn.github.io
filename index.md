@@ -28,7 +28,7 @@ Most every course I've taken has touched on security in some way, from the very 
 
 # Software Design & Engineering
 
-[Full-Stack Contact Management Web Application](./index.html)
+[Full-Stack Contact Management Web Application](./softwaredesignengineering.html)
 
 This artifact was built from two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture including a Contact model, service layer, REST controller, application entry point, and exception handler. The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch calls. Users can add, find, update, and delete contacts, and display a complete list of contacts through the interface.
 
@@ -38,7 +38,7 @@ The artifact has evolved from a small collection of Java business-logic into a c
 
 # Algorithms & Data Structures
 
-[Course Catalog Binary Search Tree](./index.html)
+[Course Catalog Binary Search Tree](./algorithmsdatastructures.html)
 
 This artifact was originally developed in C++ but has been translated to Python. The application parses a CSV file containing academic course information and organizes them in a binary search tree (BST), allowing users to efficiently search and navigate the data.
 
@@ -48,7 +48,7 @@ The artifact now demonstrates file processing, object-oriented programming, bina
 
 # Databases
 
-[National Parks Info & Data Visualization Dashboard](./index.html)
+[National Parks Info & Data Visualization Dashboard](./databases.html)
 
 This artifact is built with Python, Dash, and MongoDB. It was originally a rescue-animal database but has been completely repurposed to manage information about U.S. National Parks. The dashboard was converted into a Python application and the UI was redesigned to display National Parks information including a sortable data table, state-based filtering, and an "Update Visited" feature that allows users to track which parks they have visited.
 
