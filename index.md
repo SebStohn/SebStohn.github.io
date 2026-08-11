@@ -1,5 +1,3 @@
-![Placeholder](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 ## Links
 
 [Home](./index.html) |
@@ -7,6 +5,8 @@
 [Software Design & Engineering](./softwaredesignengineering.html) |
 [Algorithms & Data Structures](./algorithmsdatastructures.html) |
 [Databases](./databases.html)
+
+![Placeholder](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 # About Me
 
