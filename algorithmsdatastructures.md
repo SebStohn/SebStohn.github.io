@@ -1,3 +1,5 @@
+![2.1](./assets/images/2.1.png)
+
 ## Links
 
 [Home](./index.html) |
@@ -20,12 +22,18 @@ The Python version maintains the behavior of the original C++ while improving re
 
 [Course Catalog Binary Search Tree Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/2.%20CSV%20Parser%20BST)
 
+![2.2](./assets/images/2.2.png)
+
 # Course Outcomes
 
 The outcome I set out to meet with this category was: “Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.” I believe I’ve met this outcome because I’ve shown ability to write, comprehend, explain, and apply complex algorithms and data structures in a constructive way.
+
+![2.3](./assets/images/2.3.png)
 
 # Reflection & Challenges
 
 When updating this project I found that I hadn’t worked in Python is quite some time. Once I was back in rhythm I was able to translate the existing codebase with little difficulty, even adding some formatting along the way. When adding functionality I really had to pay attention to datatypes and scope to make sure that I was working with fields when I wanted fields, and addresses when I wanted addresses.
 
 Adding the statistical option was challenging because I had to change how I approached it. The BST was a hand-written structure so it doesn’t have built-in functions which made taking statistics on it’s contents more interesting. The problem was solved with lists and a recursive algorithm that tracks courses and prerequisites that can then be analyzed.
+
+![2.4](./assets/images/2.4.png)
