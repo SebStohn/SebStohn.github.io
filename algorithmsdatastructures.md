@@ -6,13 +6,13 @@
 [Algorithms & Data Structures](./algorithmsdatastructures.html) |
 [Databases](./databases.html)
 
-![2.1](./assets/images/2.1.png)
-
 # Original Artifact
 
 The original artifact was the portfolio item for CS-300 completed in December of 2025. It was written in C++ and features a CSV parser written by me. This parser creates a 2D vector of academic courses with prerequisites that can be searched efficiently using a binary search tree with various algorithms. I selected this artifact because it contains advanced algorithmic concepts including recursion and parent/child nodes, I also felt it would benefit from being translated to Python and having it’s analysis functionality expanded.
 
 # Enhancements Made
+
+![2.1](./assets/images/2.1.png)
 
 The program was successfully translated to Python while preserving its functionality and BST. The Course structure was converted to a Python @dataclass, and the BST, node structure, insert, search, traverse, CSV parse, course load, and main menu logic were all rewritten. The code was also streamlined with cleaner output, simplified input validation, and Pythonic file handling.
 
