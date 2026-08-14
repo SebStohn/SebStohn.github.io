@@ -12,7 +12,7 @@ The original artifact was the portfolio item for CS-320 completed in February of
 
 # Enhancements Made
 
-<img align="right" width="100%" src="./assets/images/1.1.png" style="margin-left: 50px;">
+<img align="right" src="./assets/images/1.1.png" style="margin-left: 50px;">
 
 The existing Contact and ContactService classes were moved into a Maven project which was upgraded to use Spring Boot. The service layer was added by annotating ContactService with @Service. A ContactApp entry point and a ContactController were created to expose the REST endpoints. A helper method was added to ContactService to reduce repeated code and a ContactExceptionHandler class was written to provide more meaningful error messages. Validation within the Contact class also was improved to reject empty inputs that were causing bugs. A basic user interface was also developed using HTML, CSS, and JavaScript with fetch() calls so users can add, find, and delete contacts through the API. Finally, update functionality was added for each mutable contact field resulting in a complete CRUD application that takes full advantage of the original service.
 
