@@ -6,13 +6,13 @@
 [Algorithms & Data Structures](./algorithmsdatastructures.html) |
 [Databases](./databases.html)
 
-![3.1](./assets/images/3.1.png)
-
 # Original Artifact
 
 The original artifact was the portfolio item for CS-340 completed in April 2026. It was written in Python and Jupyter notebook and contains a Python CRUD module along with a Jupyter dashboard that was used to access a MongoDB database of rescue animals. I selected this artifact because it contains work both in accessing the database through CRUD, but also displaying that data in a useful way to the user. The project relied heavily on the Codio environment during the course so I knew that I wanted to refactor the Jupyter elements to work in regular Python. I also knew that I wanted to change the subject matter to something I was more interested in, so I settled on pivoting and creating a MongoDB database of US National Parks.
 
 # Enhancements Made
+
+![3.1](./assets/images/3.1.png)
 
 The CRUD module and Dash dashboard were refactored by renaming all class names, variables, and database connections to reflect the new subject. The dashboard was converted from Jupyter notebook to standalone Python, and the MongoDB connection was configured and tested. The data frame columns were updated and the table was modified to display them. The radio button filters were replaced with a dropdown menu that dynamically filters parks by state. An “Update Visited” button was also added which toggles the "visited" field of the currently selected park using the CRUD Module’s “update” functionality.
 
