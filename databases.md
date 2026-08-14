@@ -30,7 +30,7 @@ The outcome I set out to meet with this category was: “Design, develop, and de
 
 ![3.3](./assets/images/3.3.png)
 
-# Reflection & Challenges
+# Reflection
 
 When building this project outside of the Codio environment I at first struggled to get everything configured with MongoDB and Dash. Converting everything to reflect the new subject matter was also challenging because so much needed to be changed. I really feel like I have a better understanding of how the database interacts with the Module, I also gained more experience working directly in MongoDB. The main challenges I faced were:
 Formatting everything properly was difficult because the only time I had worked with HTML through Python prior to this was this very assignment in CS-340.
