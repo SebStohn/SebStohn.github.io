@@ -8,7 +8,7 @@
 
 # Original Artifact
 
-The original artifact was the portfolio item for CS-340 completed in April 2026. It was written in Python and Jupyter notebook and contains a Python CRUD module along with a Jupyter dashboard that was used to access a MongoDB database of rescue animals. I selected this artifact because it contains work both in accessing the database through CRUD, but also displaying that data in a useful way to the user. The project relied heavily on the Codio environment during the course so I knew that I wanted to refactor the Jupyter elements to work in regular Python. I also knew that I wanted to change the subject matter to something I was more interested in, so I settled on pivoting and creating a MongoDB database of US National Parks.
+The original artifact was the portfolio item for CS-340 completed in April 2026. It was written in Python and Jupyter notebook and contains a Python CRUD module along with a Jupyter dashboard that was used to access a MongoDB database of rescue animals. I selected this artifact because it contains work both in accessing the database through CRUD, but also in displaying that data in a useful way to the user. The project relied heavily on the Codio environment during the course so I knew that I wanted to refactor the Jupyter elements to work in regular Python. I also knew that I wanted to change the subject matter to something I was more interested in, so I settled on pivoting and creating a MongoDB database of US National Parks.
 
 # Enhancements Made
 
@@ -32,9 +32,8 @@ The outcome I set out to meet with this category was: “Design, develop, and de
 
 # Reflection
 
-When building this project outside of the Codio environment I at first struggled to get everything configured with MongoDB and Dash. Converting everything to reflect the new subject matter was also challenging because so much needed to be changed. I really feel like I have a better understanding of how the database interacts with the Module, I also gained more experience working directly in MongoDB. The main challenges I faced were:
-Formatting everything properly was difficult because the only time I had worked with HTML through Python prior to this was this very assignment in CS-340.
+When building this project outside of the Codio environment I at first struggled to get everything configured with MongoDB and Dash. Converting everything to reflect the new subject matter was also challenging because so much needed to be changed. I really feel like I have a better understanding of how the database interacts with the Module, I also gained more experience working directly in MongoDB.
 
-Callbacks are important to this enhancement since they are what drives the interaction. I had to meet the challenge of writing them correctly and understanding their application to make the dashboard as responsive as possible. Getting the functions under each callback correct was also challenging just because there is always so much more going on behind the scenes than initially meets the eye.
+Formatting everything properly was difficult because the only time I had worked with HTML through Python prior to this was this very assignment in CS-340. Callbacks are important to this enhancement since they are what drives the interaction. I had to meet the challenge of writing them correctly and understanding their application to make the dashboard as responsive as possible. Getting the functions under each callback correct was also challenging just because there is always so much more going on behind the scenes than initially meets the eye.
 
 ![3.4](./assets/images/3.4.png)
