@@ -8,7 +8,7 @@
 
 # About Me
 
-<img align="right" src="https://github.githubassets.com/images/icons/emoji/octocat.png" style="margin-left: 20px;">
+<img align="right" src="./assets/images/1.1.png" style="margin-left: 20px;">
 
 My name is Sebastian Stohn (Bachelor of Science), I am a Southern New Hampshire University graduate majoring in computer science with a concentration in software engineering. Upon entering the CS program in 2024 I had merely an interest in coding and an intense desire to learn. As I progressed I realized that what I was learning was not only a valuable skill but also something I was passionate about and good at. This portfolio serves to showcase my skills and passion in three key areas: Software design & engineering, algorithms & data structures, and databases.
 
