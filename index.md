@@ -44,7 +44,7 @@ This artifact was originally developed in C++ but has been translated to Python.
 
 The Python version uses a dataclass to represent courses and incorporates Pythonic file handling, input validation, and program organization. New functionality was also added including the ability to search courses by subject, browse courses within a subject, and access a statistics feature. This version also has cleaner output and formatting, simplified input validation, comprehensive code comments, and professional file headers.
 
-The artifact now demonstrates file processing, object-oriented programming, binary search trees, recursion, searching algorithms, data analysis, and the ability to translate existing software between while preserving its core components.
+The artifact now demonstrates file processing, object-oriented programming, binary search trees, recursion, searching algorithms, data analysis, and the ability to translate existing software between languages while preserving its core components.
 
 # Databases
 
