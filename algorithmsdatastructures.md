@@ -32,7 +32,7 @@ The outcome I set out to meet with this category was: “Design and evaluate com
 
 # Reflection
 
-<img align="right" src="./assets/images/2.4.png" style="margin-left: 20px;">
+<img align="right" src="./assets/images/2.4.png" style="margin-left: 10px; margin-right: 10px;">
 
 When updating this project I found that I hadn’t worked in Python is quite some time. Once I was back in rhythm I was able to translate the existing codebase with little difficulty, even adding some formatting along the way. When adding functionality I really had to pay attention to datatypes and scope to make sure that I was working with fields when I wanted fields, and addresses when I wanted addresses.
 
