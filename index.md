@@ -1,7 +1,4 @@
-### [Home](./index.html) |
-### [Software Design & Engineering](./softwaredesignengineering.html) |
-### [Algorithms & Data Structures](./algorithmsdatastructures.html) |
-### [Databases](./databases.html)
+### [Home](./index.html) | [Software Design & Engineering](./softwaredesignengineering.html) | [Algorithms & Data Structures](./algorithmsdatastructures.html) | [Databases](./databases.html)
 
 # About Me
 
