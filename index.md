@@ -8,6 +8,8 @@
 
 ### Throughout my studies I have become proficient in several programming languages including Python, Java, C++, and R. I worked with web development technologies including JavaScript, HTML, and CSS. I also became familiar with SQL and NoSQL databases like MySQL and MongoDB respectively. I gained experience writing small routines and structures but also in designing full applications and stack development, both of which are featured in this portfolio.
 
+### This website serves to showcase my computer science skills through the various projects uploaded to this portfolio:
+
 # Academic Reflection
 
 ### One of the first things I learned in the CS program was that professionally working with software is not just a solitary task. Producing outstanding deliverables involves teams of developers, collaboration within that team, balancing stakeholder interest, and lots of documentation. The course CS-250 really focused in on the software development lifecycle and pushed me to collaborate with other students in a mock SDLC setting. I also learned important skills in interpreting stakeholder requirements which continued to help me in later courses as assignments, requirements, and documentation all got more complex.
