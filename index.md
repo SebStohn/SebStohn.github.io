@@ -1,9 +1,6 @@
-### Portfolio Links
+## Portfolio Links
 
-[Home](./index.html) |
-[Contact.io](./softwaredesignengineering.html) |
-[Coursearch](./algorithmsdatastructures.html) |
-[National Park Explorer](./databases.html)
+### [Home](./index.html) | [Contact.io](./softwaredesignengineering.html) | [Coursearch](./algorithmsdatastructures.html) | [National Park Explorer](./databases.html)
 
 # About Me
 
