@@ -15,11 +15,13 @@ Throughout my studies I have become proficient in several programming languages 
 
 This website serves to showcase my computer science skills through the various projects uploaded to this portfolio:
 
-# Software Design & Engineering
+# Contact.io
 
-### [Full-Stack Contact Management Web Application](./softwaredesignengineering.html)
+### [Contact.io Repository](./softwaredesignengineering.html)
 
-This artifact was built from two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture including a Contact model, service layer, REST controller, application entry point, and exception handler. The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch calls. Users can add, find, update, and delete contacts, and display a complete list of contacts through the interface.
+Contact.io is a full-stack contact management web app that demonstrates a REST API and full stack architecture.
+
+It was built from two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture including a Contact model, service layer, REST controller, application entry point, and exception handler. The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch calls. Users can add, find, update, and delete contacts, and display a complete list of contacts through the interface.
 
 Input validation was strengthened to prevent invalid or empty information. The updated error handling provides users with more meaningful feedback. Additional improvements include JavaScript helper functions, descriptive input placeholders, comprehensive code comments, professional file headers, and a more organized UI that responds appropriately.
 
