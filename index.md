@@ -7,7 +7,7 @@
 
 # About Me
 
-<img align="left" src="./assets/images/Photo.JPG" style="margin-right: 10px; width: 180px;" alt="Photo">
+<img align="left" src="./assets/images/Photo.JPG" style="margin-right: 10px; width: 200px;" alt="Photo">
 
 My name is Sebastian Stohn (Bachelor of Science), I am a Southern New Hampshire University graduate majoring in computer science with a concentration in software engineering. My goal is to apply my skills as an all-purpose software engineering professional capable of fulfilling different roles in the development cycle.
 
