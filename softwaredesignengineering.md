@@ -17,9 +17,7 @@ The backend also exposes RESTful API endpoints that allow users to create, retri
 
 # Technical Specifications
 
-![Figure 2](./assets/images/1.2.png)
-
-<img src="./assets/images/1.2.png" style="width: 250px;" alt="Figure 2">
+<img src="./assets/images/1.2.png" style="width: 500px;" alt="Figure 2">
 
 <img align="right" src="./assets/images/1.4.png" style="margin-left: 10px; width: 250px;" alt="Figure 4">
 
