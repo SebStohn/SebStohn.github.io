@@ -25,10 +25,4 @@ The existing Contact (pictured above) and ContactService classes were moved into
 
 The JavaScript (pictured above) was streamlined with helper functions to reduce repeated code. The HTML was also enhanced by adding placeholder text to input fields to provide users with expected value formats. A getAllContacts() method was added to the service layer and exposed through a new REST endpoint in the controller. The JavaScript was updated with a matching getAllContacts() function that retrieves the complete list of contacts and displays it to the user. Finally, a corresponding "Show All Contacts" button was added to the HTML.
 
-# Reflection
-
 <img align="right" src="./assets/images/1.4.png" style="margin-left: 10px; margin-right: 10px;" alt="Figure 4">
-
-When updating the project to take advantage of Spring Boot I was reminded of how much work goes into just setting up the web environment for a few classes to run on. Looking further into error messages was a good experience since I learned how to give the user more feedback to make the app easier to use. I got to implement my HTML/CSS/JS skills I learned in Web Site Design while also gaining more experience integrating JavaScript.
-
-The first challenge was that the contact class was allowing empty fields to be passed into contact objects because it didn’t understand the difference between NULL and an empty string. This problem was solved by adding an additional check to the contact class. Another challenge was dealing with hiding and unhiding certain UI objects in HTML and JS. I had little experience with that particular skill so learning more about those functions was extremely helpful. The final challenge was making the UI make sense based on the most recent user input. This mostly involved “clearing the decks” of the contact that the user was currently working with when they performed a different action or made a bad input. Making it follow logical sense while still performing correctly was a good test for me. This challenge continued during the polishing phase as I added more API endpoints and continued to add functionality to the front-end.
