@@ -7,7 +7,7 @@
 
 # Contact.io
 
-<img align="left" src="./assets/images/1.1.png" style="margin-left: 10px; margin-right: 10px; width: 200px;" alt="Figure 1">
+<img align="left" src="./assets/images/1.1.png" style="margin-right: 10px; width: 300px;" alt="Figure 1">
 
 Contact.io started as two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture including a Contact model, service layer, REST controller, application entry point, and exception handler.
 
