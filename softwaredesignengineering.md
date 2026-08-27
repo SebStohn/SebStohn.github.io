@@ -5,13 +5,13 @@
 [Coursearch](./algorithmsdatastructures.html) |
 [National Park Explorer](./databases.html)
 
-# Original Artifact
+# Contact.io
 
 The original artifact was the portfolio item for CS-320 completed in February of 2026. It was written in Java and contains the classes Contact.java and ContactService.java. Together these classes handle the creation, alteration, and deletion of Contacts and Contact fields. I selected this artifact because it contains sound business logic that could easily be expanded from an isolated service into a Spring Boot web application with browser UI.
 
 # Enhancements Made
 
-<img align="right" src="./assets/images/1.1.png" style="margin-left: 10px; margin-right: 10px;">
+<img align="right" src="./assets/images/1.1.png" style="margin-left: 10px; margin-right: 10px;" alt="Figure 1">
 
 The existing Contact and ContactService classes were moved into a Maven project which was upgraded to use Spring Boot. The service layer was added by annotating ContactService with @Service. A ContactApp entry point and a ContactController were created to expose the REST endpoints. A helper method was added to ContactService to reduce repeated code and a ContactExceptionHandler class was written to provide more meaningful error messages. Validation within the Contact class also was improved to reject empty inputs that were causing bugs. A basic user interface was also developed using HTML, CSS, and JavaScript with fetch() calls so users can add, find, and delete contacts through the API. Finally, update functionality was added for each mutable contact field resulting in a complete CRUD application that takes full advantage of the original service.
 
@@ -21,17 +21,17 @@ These improvements have turned the raw business logic classes into a full archit
 
 ### [Full-Stack Contact Management Web Application Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/1.%20Contact%20Service)
 
-![1.2](./assets/images/1.2.png)
+![Figure 2](./assets/images/1.2.png)
 
 # Course Outcomes
 
 The outcome I set out to meet with this category was: “Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.” I believe I’ve met this outcome because I have created a functional program using well-founded techniques while also using my own skills to solve problems and create solutions specific to this application.
 
-![1.3](./assets/images/1.3.png)
+![Figure 3](./assets/images/1.3.png)
 
 # Reflection
 
-<img align="right" src="./assets/images/1.4.png" style="margin-left: 10px; margin-right: 10px;">
+<img align="right" src="./assets/images/1.4.png" style="margin-left: 10px; margin-right: 10px;" alt="Figure 4">
 
 When updating the project to take advantage of Spring Boot I was reminded of how much work goes into just setting up the web environment for a few classes to run on. Looking further into error messages was a good experience since I learned how to give the user more feedback to make the app easier to use. I got to implement my HTML/CSS/JS skills I learned in Web Site Design while also gaining more experience integrating JavaScript.
 
