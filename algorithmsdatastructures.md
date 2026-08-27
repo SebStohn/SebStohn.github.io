@@ -1,6 +1,9 @@
 ## Portfolio Links
 
-### [Home](./index.html) | [Contact.io](./softwaredesignengineering.html) | [Coursearch](./algorithmsdatastructures.html) | [National Park Explorer](./databases.html)
+[Home](./index.html) |
+[Contact.io](./softwaredesignengineering.html) |
+[Coursearch](./algorithmsdatastructures.html) |
+[National Park Explorer](./databases.html)
 
 # Original Artifact
 
@@ -8,7 +11,7 @@ The original artifact was the portfolio item for CS-300 completed in December of
 
 # Enhancements Made
 
-![2.1](./assets/images/2.1.png)
+![Figure 1](./assets/images/2.1.png)
 
 The program was successfully translated to Python while preserving its functionality and BST. The Course structure was converted to a Python @dataclass, and the BST, node structure, insert, search, traverse, CSV parse, course load, and main menu logic were all rewritten. The code was also streamlined with cleaner output, simplified input validation, and Pythonic file handling.
 
@@ -18,17 +21,17 @@ The Python version maintains the behavior of the original C++ while improving re
 
 [Course Catalog Binary Search Tree Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/2.%20CSV%20Parser%20BST)
 
-![2.2](./assets/images/2.2.png)
+![Figure 2](./assets/images/2.2.png)
 
 # Course Outcomes
 
 The outcome I set out to meet with this category was: “Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.” I believe I’ve met this outcome because I’ve shown ability to write, comprehend, explain, and apply complex algorithms and data structures in a constructive way.
 
-![2.3](./assets/images/2.3.png)
+![Figure 3](./assets/images/2.3.png)
 
 # Reflection
 
-<img align="right" src="./assets/images/2.4.png" style="margin-left: 10px; margin-right: 10px;">
+<img align="right" src="./assets/images/2.4.png" style="margin-left: 10px; margin-right: 10px;" alt="Figure 4">
 
 When updating this project I found that I hadn’t worked in Python is quite some time. Once I was back in rhythm I was able to translate the existing codebase with little difficulty, even adding some formatting along the way. When adding functionality I really had to pay attention to datatypes and scope to make sure that I was working with fields when I wanted fields, and addresses when I wanted addresses.
 
