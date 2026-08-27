@@ -11,7 +11,25 @@
 
 My name is Sebastian Stohn (Bachelor of Science), I am a Southern New Hampshire University graduate majoring in computer science with a concentration in software engineering. My goal is to apply my skills as an all-purpose software engineering professional capable of fulfilling different roles in the development cycle.
 
-Throughout my studies I have become proficient in several programming languages including Python, Java, C++, and R. I worked with web development technologies including JavaScript, HTML, and CSS. I also became familiar with SQL and NoSQL databases like MySQL and MongoDB respectively. I gained experience writing small routines and structures but also in designing full applications and stack development, both of which are featured in this portfolio:
+Proficient in several programming languages including:
+
+* Python
+* Java
+* C++
+* R
+
+Experienced with database technologies such as:
+
+* MySQL
+* MongoDB
+
+Also worked with web development tools including:
+
+* JavaScript
+* HTML
+* CSS
+
+Comfortable writing small routines and structures but also in designing full applications and stack development. These skill and more are featured in the following portfolio:
 
 # Contact.io
 
