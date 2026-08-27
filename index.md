@@ -20,8 +20,8 @@ Proficient in several programming languages including:
 
 Experienced with database technologies such as:
 
-* MySQL
 * MongoDB
+* MySQL
 
 Also worked with web development tools including:
 
