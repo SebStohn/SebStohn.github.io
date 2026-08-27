@@ -21,26 +21,39 @@ Contact.io is a full-stack contact management web app that demonstrates a REST A
 
 Contact.io started as two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture including a Contact model, service layer, REST controller, application entry point, and exception handler. The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch calls. Users can add, find, update, and delete contacts, and display a complete list of contacts through the interface.
 
-Input validation was strengthened to prevent invalid or empty information. The updated error handling provides users with more meaningful feedback. Additional improvements include JavaScript helper functions, descriptive input placeholders, comprehensive code comments, professional file headers, and a more organized UI that responds appropriately.
+* Java business-logic
+* CRUD functionality
+* Backend Java development
+* RESTful APIs
+* Spring Boot
+* Frontend web technologies
 
-The artifact has evolved from a small collection of Java business-logic into a complete CRUD application that demonstrates integration of backend Java development, RESTful APIs, Spring Boot, and frontend web technologies.
+# Coursearch
 
-# Algorithms & Data Structures
+### [Coursearch Home](./algorithmsdatastructures.html)
 
-### [Course Catalog Binary Search Tree](./algorithmsdatastructures.html)
+Coursearch is a course-searching console application that demonstrates a CSV parser and binary search tree.
 
-This artifact was originally developed in C++ but has been translated to Python. The application parses a CSV file containing academic course information and organizes them in a binary search tree (BST), allowing users to efficiently search and navigate the data.
+Coursearch was originally developed in C++ but has been translated to Python. The application parses a CSV file containing academic course information and organizes it into a binary search tree (BST), allowing users to efficiently search and navigate the data. The Python version also features the ability to search courses by subject, browse courses within a subject, and access a statistics feature.
 
-The Python version uses a dataclass to represent courses and incorporates Pythonic file handling, input validation, and program organization. New functionality was also added including the ability to search courses by subject, browse courses within a subject, and access a statistics feature. This version also has cleaner output and formatting, simplified input validation, comprehensive code comments, and professional file headers.
-
-The artifact now demonstrates file processing, object-oriented programming, binary search trees, recursion, searching algorithms, data analysis, and the ability to translate existing software between languages while preserving its core components.
+* File processing
+* Object-oriented programming
+* Binary search trees
+* Recursion
+* Searching algorithms
+* Data analysis
 
 # Databases
 
-[National Parks Info & Data Visualization Dashboard](./databases.html)
+[National Park Explorer](./databases.html)
 
-This artifact is built with Python, Dash, and MongoDB. It was originally a rescue-animal database but has been completely repurposed to manage information about U.S. National Parks. The dashboard was converted into a Python application and the UI was redesigned to display National Parks information including a sortable data table, state-based filtering, and an "Update Visited" feature that allows users to track which parks they have visited.
+National Park Explorer is an data visualization dashboard that demonstrates CRUD functionality with MongoDB.
 
-The application includes an improved interactive geolocation map and a pie chart that displays the distribution of National Parks by state. It also features updates such as new colors, layout, website links, styling, comments, and professional file headers. Finally, the MongoDB database was populated with records for all 63 U.S. National Parks.
+National Park Explorer incorporates Python, Dash, and MongoDB. The dashboard is a application that displays U.S. National Park information including a sortable data table, state-based filtering, and an "Update Visited" feature that allows users to track which parks they've been to. The application includes an interactive geolocation map and a pie chart that displays the distribution of National Parks by state. The MongoDB database is populated with records for all 63 U.S. National Parks.
 
-The artifact combines databasing, CRUD operations, data visualization, web-based user interaction, and demonstrates the ability to work with MongoDB and Dash to transform raw data into a meaningful user experience.
+* Databasing
+* CRUD operations
+* Data visualization
+* Web-based user interaction
+* MongoDB
+* Dash
