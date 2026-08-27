@@ -11,7 +11,7 @@
 
 <img align="left" src="./assets/images/1.1.png" style="margin-left: 10px; margin-right: 10px; width: 200px;" alt="Figure 1">
 
-The original artifact was the portfolio item for CS-320 completed in February of 2026. It was written in Java and contains the classes Contact.java and ContactService.java. Together these classes handle the creation, alteration, and deletion of Contacts and Contact fields. I selected this artifact because it contains sound business logic that could easily be expanded from an isolated service into a Spring Boot web application with browser UI.
+Contact.io started as two Java classes: Contact and ContactService. The application uses Java and Spring Boot as the backend architecture including a Contact model, service layer, REST controller, application entry point, and exception handler. The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch calls. Users can add, find, update, and delete contacts, and display a complete list of contacts through the interface.
 
 # Technical Specifications
 
