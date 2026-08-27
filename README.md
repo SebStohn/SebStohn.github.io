@@ -10,7 +10,7 @@ Coursearch is a course-searching console application that demonstrates a CSV par
 
 ### National Park Explorer
 
-National Park Explorer is an data visualization dashboard that demonstrates CRUD functionality with MongoDB.
+National Park Explorer is a data visualization dashboard that demonstrates CRUD functionality with MongoDB.
 
 # Academic Reflection
 
