@@ -9,7 +9,7 @@
 
 ### [Contact.io Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/1.%20Contact%20Service)
 
-<img align="left" src="./assets/images/1.1.png" style="margin-left: 10px; margin-right: 10px;" alt="Figure 1">
+<img align="left" src="./assets/images/1.1.png" style="margin-left: 10px; margin-right: 10px; width: 200px;" alt="Figure 1">
 
 The original artifact was the portfolio item for CS-320 completed in February of 2026. It was written in Java and contains the classes Contact.java and ContactService.java. Together these classes handle the creation, alteration, and deletion of Contacts and Contact fields. I selected this artifact because it contains sound business logic that could easily be expanded from an isolated service into a Spring Boot web application with browser UI.
 
