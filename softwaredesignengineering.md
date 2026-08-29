@@ -14,8 +14,7 @@ Contact.io started as two Java classes: Contact and ContactService. The applicat
 The backend also exposes RESTful API endpoints that allow users to create, retrieve, update, and delete contacts, as well as retrieve all contacts. The front-end features an HTML, CSS, and JavaScript UI that communicates with the Spring Boot backend through fetch calls. Users can add, find, update, and delete contacts, and display a complete list of contacts through the interface.
 
 Input validation prevents invalid or empty information along with updated error handling that provides users with more meaningful feedback.
-
-## [Contact.io Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/1.%20Contact%20Service)
+### [Contact.io Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/1.%20Contact%20Service)
 
 # Technical Specifications
 
