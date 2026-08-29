@@ -7,9 +7,9 @@
 
 # Coursearch
 
-Coursearch was originally developed in C++ but has been translated to Python. The application parses a CSV file containing academic course information and organizes it into a binary search tree (BST), allowing users to efficiently search and navigate the data. The Python version also features the ability to search courses by subject, browse courses within a subject, and access a statistics feature.
+### [Download Coursearch!](https://github.com/SebStohn/SebStohn.github.io/tree/main/2.%20CSV%20Parser%20BST)
 
-## [Coursearch Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/2.%20CSV%20Parser%20BST)
+Coursearch was originally developed in C++ but has been translated to Python. The application parses a CSV file containing academic course information and organizes it into a binary search tree (BST), allowing users to efficiently search and navigate the data. The Python version also features the ability to search courses by subject, browse courses within a subject, and access a statistics feature.
 
 <img src="./assets/images/2.1.png" style="width: 650px;" alt="Figure 1">
 
