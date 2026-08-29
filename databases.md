@@ -17,10 +17,14 @@ The application includes an interactive geolocation map and a pie chart that dis
 
 # Technical Specifications
 
-National Park Explorer consists of a Python CRUD module, a Dash dashboard, and a MongoDB connection. It uses a data frame with a dropdown menu that dynamically filters parks by state. An “Update Visited” button was also added which toggles the "visited" field of the currently selected park using the CRUD Module’s “update” functionality.
+National Park Explorer consists of a Python CRUD module, a Dash dashboard, and a MongoDB connection. It uses a data frame with a dropdown menu that dynamically filters parks by state.
+
+An “Update Visited” button was also added which toggles the "visited" field of the currently selected park using the CRUD Module’s “update” functionality.
 
 <img src="./assets/images/3.2.png" style="width: 650px;" alt="Figure 2">
 
-The pie graph (pictured above) displays the number of national parks by state while the geolocation map centers on the selected park. The data frame also supports table sorting and functional hyperlinks. The MongoDB database was also populated with records (pictured below) for all 63 U.S. national parks.
+The pie graph (pictured above) displays the number of national parks by state while the geolocation map centers on the selected park. The data frame also supports table sorting and functional hyperlinks. 
+
+The application retrieves data from a MongoDB database populated with records (pictured below) for all 63 U.S. national parks.
 
 <img src="./assets/images/3.3.png" style="width: 650px;" alt="Figure 3">
