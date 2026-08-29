@@ -7,9 +7,11 @@
 
 # National Park Explorer
 
-National Park Explorer incorporates Python, Dash, and MongoDB. The dashboard is a Python application that displays U.S. National Park information including a sortable data table, state-based filtering, and an "Update Visited" feature that allows users to track which parks they've been to. The application includes an interactive geolocation map and a pie chart that displays the distribution of National Parks by state along with a MongoDB database populated with data.
+### [National Park Explorer Repository (download, explore, etc.)](https://github.com/SebStohn/SebStohn.github.io/tree/main/3.%20CRUD%20Module)
 
-## [National Park Explorer Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/3.%20CRUD%20Module)
+National Park Explorer incorporates Python, Dash, and MongoDB. The dashboard is a Python application that displays U.S. National Park information including a sortable data table, state-based filtering, and an "Update Visited" feature that allows users to track which parks they've been to.
+
+The application includes an interactive geolocation map and a pie chart that displays the distribution of National Parks by state along with a MongoDB database populated with data.
 
 <img src="./assets/images/3.4.png" style="width: 650px;" alt="Figure 1">
 
@@ -19,6 +21,6 @@ National Park Explorer consists of a Python CRUD module, a Dash dashboard, and a
 
 <img src="./assets/images/3.2.png" style="width: 650px;" alt="Figure 2">
 
-The pie graph (pictured above) displays the number of national parks by state while the geolocation map centers on the selected park. The data frame also supports table sorting and functional hyperlinks. The MongoDB database is also populated with records (pictured below) for all 63 U.S. national parks.
+The pie graph (pictured above) displays the number of national parks by state while the geolocation map centers on the selected park. The data frame also supports table sorting and functional hyperlinks. The MongoDB database was also populated with records (pictured below) for all 63 U.S. national parks.
 
 <img src="./assets/images/3.3.png" style="width: 650px;" alt="Figure 3">
