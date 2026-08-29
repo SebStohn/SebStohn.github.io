@@ -17,7 +17,7 @@ Input validation prevents invalid or empty information along with updated error 
 
 # Technical Specifications
 
-<img src="./assets/images/1.2.png" style="width: 500px;" alt="Figure 2">
+<img src="./assets/images/1.2.png" style="width: 600px;" alt="Figure 2">
 
 <img align="right" src="./assets/images/1.4.png" style="margin-left: 10px; width: 200px;" alt="Figure 4">
 
