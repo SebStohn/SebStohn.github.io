@@ -7,7 +7,7 @@
 
 # Contact.io
 
-### [Contact.io Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/1.%20Contact%20Service)
+### [Contact.io Repository (download, explore, etc.)](https://github.com/SebStohn/SebStohn.github.io/tree/main/1.%20Contact%20Service)
 
 <img align="left" src="./assets/images/1.1.png" style="margin-right: 10px; width: 200px;" alt="Figure 1">
 
