@@ -19,8 +19,6 @@ Coursearch features a CSV parser (pictured above) that creates a 2D vector of ac
 
 Features were added such as a Find-by-Subject option and Subject sub-menu that allows users to view courses within a selected subject using the new search_subject and print_subject BST methods. A Statistics feature was also introduced through the gen_stats and counter methods which print information such as the total number of courses, subject frequency, and most common prerequisites.
 
-![Figure 3](./assets/images/2.3.png)
-
-<img align="right" src="./assets/images/2.4.png" style="margin-left: 10px; margin-right: 10px;" alt="Figure 4">
+<img src="./assets/images/2.3.png" style="width: 600px;" alt="Figure 3">
 
 # [Coursearch Repository](https://github.com/SebStohn/SebStohn.github.io/tree/main/2.%20CSV%20Parser%20BST)
