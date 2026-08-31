@@ -21,7 +21,7 @@ Input validation prevents invalid or empty info along with updated error handlin
 
 <img src="./assets/images/1.2.png" style="width: 650px;" alt="Figure 2">
 
-<img align="right" src="./assets/images/1.4.png" style="margin-left: 10px; width: 200px;" alt="Figure 3">
+<img align="right" src="./assets/images/1.3.png" style="margin-left: 10px; width: 200px;" alt="Figure 3">
 
 The existing Contact (pictured above) and ContactService classes were upgraded to use Spring Boot. The service layer was added by annotating ContactService with @Service. A ContactApp entry point and a ContactController were created to expose the REST endpoints. An Exception Handler class was written to provide more meaningful error messages. Validation within the Contact class also was also improved to reject empty inputs that were causing bugs.
 
