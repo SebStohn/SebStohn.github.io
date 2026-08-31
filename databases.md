@@ -9,7 +9,7 @@
 
 ### [National Park Explorer Repository (download, explore, etc.)](https://github.com/SebStohn/SebStohn.github.io/tree/main/3.%20CRUD%20Module)
 
-<img src="./assets/images/3.4.png" style="width: 650px;" alt="Figure 1">
+<img src="./assets/images/3.1.png" style="width: 650px;" alt="Figure 1">
 
 National Park Explorer incorporates Python, Dash, and MongoDB. The dashboard is a Python application that displays U.S. National Park information including a sortable data table, state-based filtering, and an "Update Visited" feature that allows users to track which parks they've been to.
 
