@@ -1,4 +1,4 @@
-# Projects Featured
+# Featured Projects
 
 ### Contact.io
 
