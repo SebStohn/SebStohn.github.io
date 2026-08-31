@@ -7,7 +7,7 @@
 
 # Coursearch
 
-### [Coursearch Repository (download, explore, etc.)](https://github.com/SebStohn/SebStohn.github.io/tree/main/2.%20CSV%20Parser%20BST)
+### [Coursearch Repository (download, explore, etc.)](https://github.com/SebStohn/SebStohn.github.io/tree/main/Coursearch)
 
 <img src="./assets/images/2.1.png" style="width: 650px;" alt="Figure 1">
 
