@@ -7,7 +7,7 @@
 
 # National Park Explorer
 
-### [National Park Explorer Repository (download, explore, etc.)](https://github.com/SebStohn/SebStohn.github.io/tree/main/3.%20CRUD%20Module)
+### [National Park Explorer Repository (download, explore, etc.)](https://github.com/SebStohn/SebStohn.github.io/tree/main/National%20Park%20Explorer)
 
 <img src="./assets/images/3.1.png" style="width: 650px;" alt="Figure 1">
 
