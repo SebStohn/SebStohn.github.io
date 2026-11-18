@@ -110,6 +110,16 @@ db.parks.insertMany([
     website: "https://www.nps.gov/chis/index.htm"
   },
   {
+  name: "Chiricahua",
+  state: "Arizona",
+  visited: false,
+  acres: 12025,
+  latitude: 32.0136,
+  longitude: -109.3542,
+  year_open: 1924,
+  website: "https://www.nps.gov/chir/index.htm"
+  },
+  {
     name: "Congaree",
     state: "South Carolina",
     visited: false,
